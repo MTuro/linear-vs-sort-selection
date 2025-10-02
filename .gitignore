@@ -1,0 +1,51 @@
+# Ambientes virtuais Python
+venv/
+env/
+ENV/
+.venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Arquivos de resultado dos experimentos
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.temp
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Arquivos de backup
+*.bak
+*.backup
+*.orig
+
+# Arquivos de distribuição Python
+build/
+dist/
+*.egg-info/
